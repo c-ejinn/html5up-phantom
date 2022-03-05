@@ -2658,7 +2658,7 @@ input, select, textarea {
 				-moz-justify-content: center;
 				-webkit-justify-content: center;
 				-ms-justify-content: center;
-				justify-content: center;
+				justify-content: flex-end;
 				-moz-transition: background-color 0.5s ease, -moz-transform 0.5s ease;
 				-webkit-transition: background-color 0.5s ease, -webkit-transform 0.5s ease;
 				-ms-transition: background-color 0.5s ease, -ms-transform 0.5s ease;
